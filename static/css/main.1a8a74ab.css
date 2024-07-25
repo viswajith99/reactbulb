@@ -1,0 +1,2 @@
+.bulb-container{align-items:center;display:flex;flex-direction:column;margin-top:50px}.bulb{background-color:#f6f3f3;border:2px solid #2e3749;border-radius:5% 5%;box-sizing:initial;height:450px;margin-bottom:20px;transition:background-color .3s;width:300px}.bulb.on{background-color:#f5d106}.bulb.off{background-color:#e0dfe8}button{background-color:#6495ed;cursor:pointer;font-size:20px;padding:10px 20px}
+/*# sourceMappingURL=main.1a8a74ab.css.map*/
